@@ -1,9 +1,71 @@
-# 💫 About Me:
-Hello! I'm krelk, an enthusiastic programmer with a strong passion for learning, adding value, and contributing to various projects. I am currently pursuing higher education in Network Systems Administration, aiming to deepen my understanding of systems and networks.<br><br>My current technological expertise lies in JavaScript for front-end development, SQL for database management, and the essential combination of HTML and CSS for crafting engaging web interfaces. I have previously delved into Java, Spring, TypeScript, and Angular, broadening my skill set and adapting to diverse development environments.<br><br>As I advance through my studies, I am actively expanding my knowledge to stay abreast of the evolving job market. My current career goal is to transition into a role as a full-stack web developer, utilizing my skills to create robust and dynamic web applications.<br><br>I have a particular fondness for the FiveM project and the ESX framework, where I've been involved in programming jobs, implementing new features, and enhancing character experiences for the GTA V Roleplay game. The excitement of contributing to this project fuels my passion for continuous improvement and learning.<br><br>I am eager to collaborate on exciting projects, share insights, and explore new opportunities in the dynamic field of web development. Let's connect and create something amazing together!
+# 👋 Hi, I'm Leo (krelk)
 
+Fullstack JavaScript Developer focused on building scalable and maintainable web applications.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+I come from a technical IT background and I’m currently specializing in modern web development, combining solid backend architecture with clean and efficient frontend design.
+
+---
+
+## 🚀 What I Do
+
+- Design and build REST APIs using Node.js and Express
+- Develop dynamic frontend applications with React + TypeScript
+- Work with relational and NoSQL databases
+- Structure applications following clean architecture principles
+- Continuously improve code quality, performance, and maintainability
+
+---
+
+## 🛠 Tech Stack (Main Focus)
+
+**Frontend**
+- React
+- TypeScript
+- HTML5 / CSS3
+
+**Backend**
+- Node.js
+- Express
+- REST API design
+- Authentication (JWT)
+
+**Databases**
+- MongoDB
+- MySQL
+
+**Tools**
+- Git
+- Docker
+- Postman
+
+---
+
+## 🧠 Background
+
+Before transitioning fully into development, I worked in IT support and systems environments.  
+This gave me strong problem-solving skills, system understanding, and real-world technical experience.
+
+I have also participated in dual vocational training developing web and mobile applications using TypeScript, Node.js, MongoDB and modern frontend frameworks.
+
+---
+
+## 🎯 Current Goal
+
+I am actively seeking opportunities as a **Junior Fullstack JavaScript Developer**, where I can contribute to real-world projects, collaborate with experienced engineers, and continue growing technically.
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 [Finance Tracker](#) – Expense tracking application built with React + TypeScript
+
+---
+
+## 📫 Contact
+
+- 🌐 Portfolio: www.krelk.com
+- 📧 Email: leo.craciun97@gmail.com
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krelk-works&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krelk-works&theme=blue-green&hide_border=false)<br/>
