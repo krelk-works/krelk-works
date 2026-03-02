@@ -57,7 +57,9 @@ I am actively seeking opportunities as a **Junior Fullstack JavaScript Developer
 
 ## 📌 Featured Projects
 
-- 🔹 [Finance Tracker](#) – Expense tracking application built with React + TypeScript
+#### 📱 Mobile-First / Capacitor / APK
+- 🔹 [Finance Tracker](https://github.com/krelk-works/financetracker) – Expense tracking application built with React + Tailwind + TypeScript. Designed for mobile use with the help of Capacitor and Mobile-First. 👀 [Preview](https://krelk.com/financetracker/dashboard)
+- 🔹 [Todo List with Dead Line](https://github.com/krelk-works/todolist) - A to-do list app with a timer for task deadlines, created with React + Tailwind + TypeScript. Designed for mobile use with the help of Capacitor and Mobile-First. 👀 [Preview](https://krelk.com/todolist/)
 
 ---
 
